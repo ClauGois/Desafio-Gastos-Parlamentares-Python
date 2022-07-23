@@ -1,5 +1,4 @@
 #   Desafio: Responder as 5 perguntas propostas utilizando qualquer tecnologia.
-
 1 - Baixe a base de dados: https://data.brasil.io/dataset/gastos-deputados/cota_parlamentar.csv.gz
 2 - Abra o terminal na pasta destes arquivo junto a base de dados e execute o arquivo main:
 3 - python Desafio_Tecnico.py
