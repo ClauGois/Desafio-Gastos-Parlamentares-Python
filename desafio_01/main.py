@@ -10,6 +10,7 @@ def main():
     rps.pergunta1Partido(2009)
     rps.pergunta1Estado(2020)
     rps.pergunta1Partido(2020)
+    
     pts.pergunta2()
     rps.pergunta2('SC')
 
