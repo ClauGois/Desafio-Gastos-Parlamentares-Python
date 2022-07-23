@@ -1,1 +1,4 @@
-
+Codigo de desafio realizado com Python.
+Baixe a base de dados: https://data.brasil.io/dataset/gastos-deputados/cota_parlamentar.csv.gz
+Abra o terminal na pasta destes arquivo e execute o arquivo main:
+python main.py
