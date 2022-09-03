@@ -20,7 +20,7 @@ class perguntas:
     def pergunta5(self):
         print('5 - Considerando o ano de emissão como sendo 2019 e 2020, exiba as 3 siglas partidárias que'
         'mais gastaram cota parlamentar (valores líquidos) para trechos que contenham "POA" ou "FLN".')
-        print('\n')
+        print('\n') 
 
 class respostas:
     def __init__(self):
